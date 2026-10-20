@@ -1,0 +1,12 @@
+{
+    "gemini_api_key": "AQ.Ab8RN6KI6FmFkfhJl4CDC6u57XcIlSiMVJFwDsJ8s-5roaj-fQ",
+    "openrouter_api_key": "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",
+    "os_system": "windows",
+    "camera_index": 0,
+    "voice_name": "Charon",
+    "assistant_name": "JARVIS",
+    "user_name": "Raphael",
+    "ui_color": "#ff0000",
+    "hud_style": "core",
+    "push_to_talk_enabled": false
+}
